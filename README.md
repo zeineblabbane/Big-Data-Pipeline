@@ -24,7 +24,7 @@ Pull this image docker please. It is an Ubuntu image with **Hadoop** (2.7.2), **
 
 **-** Sent the generated output through Kafka to be stored in HBase.
 
-**-** Used Spark to extract that data from HBase and use it to predict the result of a football match between two teams mentioned in the users requests.
+**-** Launched Spark job to extract that data from HBase and to use it to predict the result of a football match between two teams mentioned in the users requests.
  
 
 
