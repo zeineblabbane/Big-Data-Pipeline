@@ -2,7 +2,7 @@
 # Big Data Pipeline: 
 # Prediction Of Football Matches Results
 
-This is a pipeline that uses many Big Data technologies to predict results of football match.
+This is a pipeline that uses many Big Data technologies to predict results of a football match.
 
 ## Requirements
 Pull this image docker please. It is an Ubuntu image with **Hadoop** (2.7.2), **Spark** (2.2.1), **Kafka** (2.11-1.0.2) and **HBase** (1.4.8) 
