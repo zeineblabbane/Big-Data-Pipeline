@@ -13,7 +13,7 @@ Pull this image docker please. It is an Ubuntu image with **Hadoop** (2.7.2), **
 ## Data
 - We took the date from Kaggle: **Matches in LaLiga**.
 - The table consists of **37147** lines.
-- Each line represents a football match and the number of goals for each team.
+- Each line represents a result of a football match.
 
 ## Architecture
 ![Architecture](https://user-images.githubusercontent.com/62619786/168388800-fbf15de1-cc8a-4fe3-98ad-c15d9763d567.PNG)
